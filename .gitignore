@@ -1,0 +1,12 @@
+# ESP-IDF build output
+build/
+
+# Logs
+*_log.txt
+
+# Old / backup config
+sdkconfig.old
+
+# ESP-IDF managed components and lockfile
+managed_components/
+dependencies.lock
